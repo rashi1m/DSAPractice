@@ -2,11 +2,22 @@ package coreJava;
 
 public class Class1Tutorial {
 
-	public static void main(String[]args) {
-		
-		System.out.println("DSA starts");
-	System.out.println("Rashi panchal");
-	System.out.println("code starts from here ");
+	public static void main(String[] args) {
+
+		int value = 16;
+		for(int v=2; v<value ;v++) {
+			if (value % v == 0) {
+				System.out.println("Number is not prime");
+			   return;
+			}
+		}
+		System.out.println("NUmber is prime");
 	}
 	
 }
+
+
+	
+	
+	
+
