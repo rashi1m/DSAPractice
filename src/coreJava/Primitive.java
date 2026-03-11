@@ -17,6 +17,9 @@ public class Primitive {
 	
 		int num3 =(int) 43.5f;
 		System.out.println(num3);
+		//it will convert into unicode
+		int n='B';
+	System.out.println(n);
 		
 		
 	}
