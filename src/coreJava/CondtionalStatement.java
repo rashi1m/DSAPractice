@@ -5,7 +5,7 @@ public class CondtionalStatement {
 	public static void main(String[] args) {
 		
 		
-		//if else we basically use it for check the condition 
+		//if else -> we basically use it for check the condition 
 		
 		//if else statement
 		int value=11;
