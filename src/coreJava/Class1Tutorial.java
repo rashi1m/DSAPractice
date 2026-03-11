@@ -16,7 +16,7 @@ public class Class1Tutorial {
 //		System.out.println("Number is prime");
 		
 		Scanner sc= new Scanner(System.in);
-		System.out.println(sc.nextLine());
+		System.out.println(sc.next());
 		
 	}
 	
