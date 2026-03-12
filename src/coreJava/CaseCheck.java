@@ -9,7 +9,8 @@ public class CaseCheck {
 		System.out.println("please enter alphabet here : ");
 		char check = in.next().trim().charAt(0);
 		
-		//next () gives a word and trim will remove extra space and charAt() which will show the on which alphabet
+		//next () gives a word and trim will remove extra space and charAt()
+		//which will show the on which alphabet
 		//is written on which index number
 		System.out.println(check);
 		
