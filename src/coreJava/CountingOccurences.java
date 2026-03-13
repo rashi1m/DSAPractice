@@ -1,8 +1,9 @@
 package coreJava;
-
+import java.util.Scanner;
 public class CountingOccurences {
 public static void main(String[] args) {
-int n=54453;
+Scanner sc = new Scanner(System.in);
+int n= sc.nextInt();
 int count=0;
 
 while(n>0) {
