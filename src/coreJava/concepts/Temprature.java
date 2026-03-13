@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.concepts;
 
 import java.util.Scanner;
 public class Temprature {

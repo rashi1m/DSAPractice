@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.concepts;
 import java.util.Scanner;
 public class CountingOccurences {
 public static void main(String[] args) {

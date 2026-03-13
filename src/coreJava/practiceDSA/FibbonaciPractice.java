@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.practiceDSA;
 
 import java.util.Scanner;
 
